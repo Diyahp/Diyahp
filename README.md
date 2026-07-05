@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **Diyapaulpelumi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mSVO19boK4FXVfrZ8ngDIaE6P6kV5lil/edit?usp=drive_link&ouid=102877548931027717383&rtpof=true&sd=true](https://docs.google.com/document/d/1mSVO19boK4FXVfrZ8ngDIaE6P6kV5lil/edit?usp=drive_link&ouid=102877548931027717383&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
