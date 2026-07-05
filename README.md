@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋 My name is Diya Paul Pelumi</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">Data Analyst</h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/paul_diyah" target="blank"><img src="https://img.shields.io/twitter/follow/paul_diyah?logo=twitter&style=for-the-badge" alt="paul_diyah" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 📊 Credit Risk & Data Analytics | SQL, Excel, Power BI, Python | Open to opportunities
 
-- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Engineering Projects**
 
